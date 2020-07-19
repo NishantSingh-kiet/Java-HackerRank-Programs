@@ -17,3 +17,14 @@ public class Solution {
         System.out.println(c);
     }
 }
+
+
+/*Input
+42
+100
+125
+
+Output
+42
+100
+125   */
